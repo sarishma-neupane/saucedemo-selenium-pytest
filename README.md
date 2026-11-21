@@ -22,7 +22,8 @@ Automated UI tests for SauceDemo using Python, Selenium, and Pytest with Page Ob
 ## How to Run
 
 1. Clone the repo
-git clone https://github.com
+git clone https://github.com/sarishma-neupane/saucedemo-selenium-pytest.git
+
 cd saucedemo-selenium-pytest
 
 2. Create and activate virtual environment
